@@ -1,6 +1,6 @@
 # Awesome-iPhoneBlog.de-List
 
-- [iPhoneBlog-Slack-Linksammlung](#iphoneblog-slack-linksammlung)
+- [Awesome-iPhoneBlog.de-List](#awesome-iphoneblogde-list)
   - [Küche \& Haushalt](#küche--haushalt)
     - [Kochgeschirr | Pfannen | Töpfe](#kochgeschirr--pfannen--töpfe)
     - [Korkenzieher](#korkenzieher)
@@ -392,4 +392,4 @@ Tipp: Bei einem Expresstausch sollte auf eine _Gehäuseverformung_ hingewiesen w
 
 [↑ Nach oben][TOC]
 
-[TOC]: #iphoneblog-slack-linksammlung "Nach oben"
+[TOC]: #awesome-iphoneblogde-list "Nach oben"
