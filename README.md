@@ -4,52 +4,8 @@
   <img width="640" height="320" src="https://github.com/confluencepoint/Awesome-iPhoneBlog.de-List/blob/main/media/iphoneblog_social_Logo.png">
 </p>
 
-- [Awesome-iPhoneBlog.de-List](#awesome-iphoneblogde-list)
-  - [Küche \& Haushalt](#küche--haushalt)
-    - [Kochgeschirr | Pfannen | Töpfe](#kochgeschirr--pfannen--töpfe)
-    - [Korkenzieher](#korkenzieher)
-    - [Rezepte](#rezepte)
-      - [Rezepte · Links](#rezepte--links)
-      - [Rezepte · Community](#rezepte--community)
-  - [Messer \& Schleifen](#messer--schleifen)
-    - [Schleifsteine](#schleifsteine)
-    - [Messerschärfer \& Schleifhilfen](#messerschärfer--schleifhilfen)
-  - [Büro | Homeoffice | Wohnung | Deko](#büro--homeoffice--wohnung--deko)
-    - [Schreibtischlampen](#schreibtischlampen)
-  - [Bekleidung](#bekleidung)
-    - [Unterwäsche (allg.)](#unterwäsche-allg)
-    - [Outdoor | Laufbekleidung](#outdoor--laufbekleidung)
-    - [Outdoorausrüstung](#outdoorausrüstung)
-  - [Fotobücher](#fotobücher)
-  - [Bollerwagen](#bollerwagen)
-  - [Software](#software)
-    - [Rezeptverwaltung](#rezeptverwaltung)
-    - [Zeiterfassung](#zeiterfassung)
-    - [Mac - Screenshots \& Bildschirmaufnahmen](#mac---screenshots--bildschirmaufnahmen)
-    - [Apple Mail | Tools \& Converter](#apple-mail--tools--converter)
-      - [Softwareupdates](#softwareupdates)
-    - [Windows - Screenshots \& Bildschirmaufnahmen](#windows---screenshots--bildschirmaufnahmen)
-  - [Games | Playstation](#games--playstation)
-    - [PS5 · Multiplayer-Spiele](#ps5--multiplayer-spiele)
-  - [Apple Watch](#apple-watch)
-    - [Armbänder](#armbänder)
-  - [Reisen](#reisen)
-    - [Flugtickets](#flugtickets)
-  - [Gesundheit](#gesundheit)
-    - [Recht](#recht)
-    - [Internet | Router | VPN](#internet--router--vpn)
-    - [Visa · Ticket](#visa--ticket)
-  - [Frickeln · Basteln](#frickeln--basteln)
-  - [Youtube-Channel Empfehlungen (unsort.)](#youtube-channel-empfehlungen-unsort)
-  - [Tipps | Tricks | FAQ](#tipps--tricks--faq)
-    - [HomeKit](#homekit)
-    - [iPad](#ipad)
-    - [Apple Care | Garantie](#apple-care--garantie)
-    - [Präsentationssoftware](#präsentationssoftware)
-    - [Apple Supportartikel](#apple-supportartikel)
-      - [Mac](#mac)
-
----
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 ## Küche \& Haushalt
 
