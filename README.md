@@ -1,5 +1,9 @@
 # Awesome-iPhoneBlog.de-List
 
+<p align="center">
+  <img width="640" height="320" src="https://github.com/confluencepoint/Awesome-iPhoneBlog.de-List/blob/main/media/iphoneblog_social_Logo.png">
+</p>
+
 - [Awesome-iPhoneBlog.de-List](#awesome-iphoneblogde-list)
   - [Küche \& Haushalt](#küche--haushalt)
     - [Kochgeschirr | Pfannen | Töpfe](#kochgeschirr--pfannen--töpfe)
