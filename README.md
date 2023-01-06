@@ -4,8 +4,55 @@
   <img width="640" height="320" src="https://github.com/confluencepoint/Awesome-iPhoneBlog.de-List/blob/main/media/iphoneblog_social_Logo.png">
 </p>
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Küche \& Haushalt](#k%C3%BCche-%5C-haushalt)
+  - [Kochgeschirr | Pfannen | Töpfe](#kochgeschirr--pfannen--t%C3%B6pfe)
+  - [Korkenzieher](#korkenzieher)
+  - [Rezepte](#rezepte)
+    - [Rezepte · Links](#rezepte-%C2%B7-links)
+    - [Rezepte · Community](#rezepte-%C2%B7-community)
+- [Messer \& Schleifen](#messer-%5C-schleifen)
+  - [Schleifsteine](#schleifsteine)
+  - [Messerschärfer \& Schleifhilfen](#messersch%C3%A4rfer-%5C-schleifhilfen)
+- [Büro \| Homeoffice \| Wohnung \| Deko](#b%C3%BCro-%5C-homeoffice-%5C-wohnung-%5C-deko)
+  - [Schreibtischlampen](#schreibtischlampen)
+- [Bekleidung](#bekleidung)
+  - [Unterwäsche (allg.)](#unterw%C3%A4sche-allg)
+  - [Outdoor | Laufbekleidung](#outdoor--laufbekleidung)
+  - [Outdoorausrüstung](#outdoorausr%C3%BCstung)
+- [Fotobücher](#fotob%C3%BCcher)
+- [Bollerwagen](#bollerwagen)
+- [Software](#software)
+  - [Rezeptverwaltung](#rezeptverwaltung)
+  - [Zeiterfassung](#zeiterfassung)
+  - [Mac - Screenshots \& Bildschirmaufnahmen](#mac---screenshots-%5C-bildschirmaufnahmen)
+  - [Apple Mail | Tools & Converter](#apple-mail--tools--converter)
+    - [Softwareupdates](#softwareupdates)
+  - [Windows - Screenshots \& Bildschirmaufnahmen](#windows---screenshots-%5C-bildschirmaufnahmen)
+- [Games | Playstation](#games--playstation)
+  - [PS5 · Multiplayer-Spiele](#ps5-%C2%B7-multiplayer-spiele)
+- [Apple Watch](#apple-watch)
+  - [Armbänder](#armb%C3%A4nder)
+- [Reisen](#reisen)
+  - [Flugtickets](#flugtickets)
+- [Gesundheit](#gesundheit)
+  - [Recht](#recht)
+  - [Internet \| Router \| VPN](#internet-%5C-router-%5C-vpn)
+  - [Visa · Ticket](#visa-%C2%B7-ticket)
+- [Frickeln · Basteln](#frickeln-%C2%B7-basteln)
+- [Youtube-Channel Empfehlungen (unsort.)](#youtube-channel-empfehlungen-unsort)
+- [Tipps \| Tricks \| FAQ](#tipps-%5C-tricks-%5C-faq)
+  - [HomeKit](#homekit)
+  - [iPad](#ipad)
+  - [Apple Care | Garantie](#apple-care--garantie)
+  - [Präsentationssoftware](#pr%C3%A4sentationssoftware)
+  - [Apple Supportartikel](#apple-supportartikel)
+    - [Mac](#mac)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Küche \& Haushalt
 
