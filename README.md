@@ -8,6 +8,9 @@
 
 Die Linksammlung ist das _Gedächtnis_, die _Konserve_ der besten Tipps, Tricks, Produktempfehlungen, Apps, Anleitungen, ... der [iPhoneBlog.de](https://www.iphoneblog.de/) Slack-Community. Zu jeder App, jedem Topf, jeder Pfanne, jedem T-Shirt, Schlüpfer, … kann jeder aus der iP-Community etwas zum Thema beitragen oder seine persönlichen Erfahrungen und Eindrücke berichten.
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## Küche & Haushalt
 
 ### Airfryer | Heißluftfritteusen
