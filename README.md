@@ -11,6 +11,7 @@
 
 Die Linksammlung ist das _Gedächtnis_, die _Konserve_ der besten Tipps, Tricks, Produktempfehlungen, Apps, Anleitungen, ... der [iPhoneBlog.de](https://www.iphoneblog.de/) Slack-Community. Zu jeder App, jedem Topf, jeder Pfanne, jedem T-Shirt, Schlüpfer, … kann jeder aus der iP-Community etwas zum Thema beitragen oder seine persönlichen Erfahrungen und Eindrücke berichten.
 
+<<<<<<< HEAD
 
 
 ## Küche & Haushalt
@@ -1333,3 +1334,11 @@ Temperatursensoren von tado° sollten ab Revision `VA02` gekauft werden. Ab dies
 - [https://twitter.com/yummysoftware](https://twitter.com/yummysoftware "https://twitter.com/yummysoftware")
 - [https://twitter.com/zaseditor](https://twitter.com/zaseditor "https://twitter.com/zaseditor")
 - [https://twitter.com/zootool](https://twitter.com/zootool "https://twitter.com/zootool")
+=======
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+>>>>>>> 611dd3b610eb78bbc2c3e340256394bddb46e94b
