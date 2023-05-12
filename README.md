@@ -184,7 +184,7 @@ Die Linksammlung ist das _Gedächtnis_, die _Konserve_ der besten Tipps, Tricks,
 ### Airfryer | Heißluftfritteusen
 
 - [COSORI Heißluftfritteuse](https://www.amazon.de/dp/B07N8N6C85) - [Affiliate-Link](https://amzn.to/3Bgyk22)
-- [Ninja Heißluftfritteuse MAX [AF160EU]](https://www.amazon.de/dp/B0837H1TCV)
+- [Ninja Heißluftfritteuse MAX [AF160EU]](https://www.amazon.de/dp/B0837H1TCV) - [Affiliate-Link](https://amzn.to/3pzTDZR)
 - [Philips Airfryer XL HD9270/90](https://www.philips.de/c-p/HD9270_90/essential-airfryer-xl)
 
 ### Barzubehör
@@ -258,9 +258,9 @@ Die Linksammlung ist das _Gedächtnis_, die _Konserve_ der besten Tipps, Tricks,
 
 #### Bildschirmreiniger
 
-- [BLUM MANUFAKTUR - Bildschirmreiniger](https://www.amazon.de/dp/B00ZZOYW8C)
-- [Dr. Becher Glasflächen Reiniger](https://www.amazon.de/Dr-Becher-Glasfl%C3%A4chen-Reiniger-Spr%C3%BChdose/dp/B00IU7V3IS)
-- [iKlear iK-5MCK Polish Cleaning Kit für Apple iPad/iPhone/MacBook](https://www.amazon.de/iKlear-iK-5MCK-Cleaning-MacBook-Flachbildschirme/dp/B00IR6FL94/260-9931026-1099433)
+- [BLUM MANUFAKTUR - Bildschirmreiniger](https://www.amazon.de/dp/B00ZZOYW8C) - [Affiliate-Link](https://amzn.to/3O02vSv)
+- [Dr. Becher Glasflächen Reiniger](https://www.amazon.de/Dr-Becher-Glasfl%C3%A4chen-Reiniger-Spr%C3%BChdose/dp/B00IU7V3IS) - [Affiliate-Link](https://amzn.to/3I6eGto)
+- [iKlear iK-5MCK Polish Cleaning Kit für Apple iPad/iPhone/MacBook](https://www.amazon.de/iKlear-iK-5MCK-Cleaning-MacBook-Flachbildschirme/dp/B00IR6FL94/260-9931026-1099433) - [Affiliate-Link](https://amzn.to/3MkeY2l)
 - [WHOOSH! - SCREEN SHINE DUO+](https://whoosh.com/collections/top-picks/products/whoosh-screen-shine-duo) - _Verwendung in Apple Stores (23,44 EUR - 03/2023)_
 
 #### Mehrzwegreiniger (Auto)
@@ -269,11 +269,11 @@ Die Linksammlung ist das _Gedächtnis_, die _Konserve_ der besten Tipps, Tricks,
 - 
 #### Mehrzwegreiniger
 
-- [Isopropanol Reiniger · 99,9% Alkohol](https://www.amazon.de/Isopropanol-IPA-Reinigungsmittel-500ml-Sprayflasche/dp/B07DWCGQ1H)
+- [Isopropanol Reiniger · 99,9% Alkohol](https://www.amazon.de/Isopropanol-IPA-Reinigungsmittel-500ml-Sprayflasche/dp/B07DWCGQ1H) - [Affiliate-Link](https://amzn.to/42rrcvy)
 
 ### Hilfsmittel
 
-- [Nadelflaschen 30 ml · 5 Stück Präzisionsspitzen](https://www.amazon.de/dp/B08YN1W353)
+- [Nadelflaschen 30 ml · 5 Stück Präzisionsspitzen](https://www.amazon.de/dp/B08YN1W353) - [Affiliate-Link](https://amzn.to/3I6eY3s)
 
 ### Rezepte
 
@@ -322,7 +322,7 @@ Die Linksammlung ist das _Gedächtnis_, die _Konserve_ der besten Tipps, Tricks,
 
 ##### Tonic
 
-- [Fever-Tree Mediterranean Tonic Water](https://www.amazon.de/dp/B00W5IHWKQ)
+- [Fever-Tree Mediterranean Tonic Water](https://www.amazon.de/dp/B00W5IHWKQ) - [Affiliate-Link](https://amzn.to/3VYxUqn)
 
 #### Rum
 
@@ -336,7 +336,7 @@ Die Linksammlung ist das _Gedächtnis_, die _Konserve_ der besten Tipps, Tricks,
  
 ### Thermoskannen | Themosbecher
 
-- [Stanley - Adventure Edelstahl Thermosflasche | 1.0 Liter](https://www.amazon.de/Stanley-Adventure-Vakuum-Flasche-Liter-Thermokanne/dp/B07PZT6MJR)
+- [Stanley - Adventure Edelstahl Thermosflasche | 1.0 Liter](https://www.amazon.de/Stanley-Adventure-Vakuum-Flasche-Liter-Thermokanne/dp/B07PZT6MJR) - [Affiliate-Link](https://amzn.to/3Mk66tv)
 - [Stanley - Classic Legendary Insulated Bottle | 1.9 Liter](https://eu.stanley1913.com/products/classic-legendary-bottle-2-0-qt)
 
 ### Wasserkocher
@@ -346,8 +346,8 @@ Die Linksammlung ist das _Gedächtnis_, die _Konserve_ der besten Tipps, Tricks,
 ### Zangen | Grillzangen | Kochpinzetten
 
 - [Grillzange Eiche](https://www.holz-leute.de/kueche-tisch/loeffel-und-werkzeug/grillzange-eiche)
-- [Napoleon 70033 PRO](https://www.amazon.de/dp/B077VMRSCY)
-- [RÖSLE - Spitzzange](https://www.amazon.de/dp/B0007VHCQ2)
+- [Napoleon 70033 PRO](https://www.amazon.de/dp/B077VMRSCY) - [Affiliate-Link](https://amzn.to/3BkDha8)
+- [RÖSLE - Spitzzange](https://www.amazon.de/dp/B0007VHCQ2) - [Affiliate-Link](https://amzn.to/42Qo8J8)
 - [Silit|WMF - Servierzange Bistro](https://www.wmf.com/de/de/bistro-servierzange-23-cm-3201000353.html)
 
 ```markdown
@@ -422,8 +422,8 @@ Gesamt: 4 Min
 
 - [adidas Aeroknit Winter Running lange Leggings](https://www.adidas.de/aeroknit-winter-running-lange-leggings/HF6640.html)
 - [Dress My Run](https://dressmyrun.com/)
-- [Grin&Bear Herren Slim fit Kapuzenpullover](https://www.amazon.de/dp/B07H7DQTX5)
-- [Odlo Herren Hose Bl Bottom Long Core Warm](https://www.amazon.de/dp/B07DDB4WQG)
+- [Grin&Bear Herren Slim fit Kapuzenpullover](https://www.amazon.de/dp/B07H7DQTX5) - [Affiliate-Link](https://amzn.to/3VUdIWN)
+- [Odlo Herren Hose Bl Bottom Long Core Warm](https://www.amazon.de/dp/B07DDB4WQG) - [Affiliate-Link](https://amzn.to/44LyAU6)
 
 ### Regenjacken | Regenbekleidung
 
@@ -506,8 +506,8 @@ Gesamt: 4 Min
 - [JOHN | GRAU](https://www.tobiasgrau.com/de/produkt/john/)
 - [Occhio Produktfamilien](https://www.occhio.de/de/familien)
 - [TERTIAL Arbeitsleuchte](https://www.ikea.com/de/de/p/tertial-arbeitsleuchte-hellblau-20504288/)
-- [tomons LED Leselampe im klassichen Holz-Design](https://www.amazon.de/dp/B016XJG65Y)
-- [Xiaomi Mi Smart LED Desk Lamp](https://www.amazon.de/dp/B07XHCDR3M)
+- [tomons LED Leselampe im klassichen Holz-Design](https://www.amazon.de/dp/B016XJG65Y) - [Affiliate-Link](https://amzn.to/3LZmSMZ)
+- [Xiaomi Mi Smart LED Desk Lamp](https://www.amazon.de/dp/B07XHCDR3M) - [Affiliate-Link](https://amzn.to/3pCLuny)
 
 ### Bürostühle
 
@@ -541,7 +541,7 @@ Gesamt: 4 Min
 
 ### NFC-Sticker
 
-- [NFC Tag Sticker-Aufkleber - NXP NFC Chip NTAG 215](https://www.amazon.de/dp/B06Y18JGSR/)
+- [NFC Tag Sticker-Aufkleber - NXP NFC Chip NTAG 215](https://www.amazon.de/dp/B06Y18JGSR/) - [Affiliate-Link](https://amzn.to/3NZZMsr)
 
 ### Online-Magazine
 
@@ -550,9 +550,9 @@ Gesamt: 4 Min
 ### Schreibtischunterlagen | Mauspads
 
 - [Formgut](https://formgut.design/products/schreibtischunterlage-filz-und-leder) - _Schreibtischunterlagen aus Filz und Leder_
-- [Logitech Desk Mat](https://www.amazon.de/dp/B07W5JK3Z2)
+- [Logitech Desk Mat](https://www.amazon.de/dp/B07W5JK3Z2) - [Affiliate-Link](https://amzn.to/42Jkpgu)
 - [Orbitkey Desk Mat](https://www.orbitkey.com/products/orbitkey-desk-mat)
-- [SATECHI Öko-Leder Deskmate 23"](https://www.amazon.de/dp/B07R967BLQ/
+- [SATECHI Öko-Leder Deskmate 23"](https://www.amazon.de/dp/B07R967BLQ/) - [Affiliate-Link](https://amzn.to/44XfaM3)
 
 ### Sofas | Sessel
 
@@ -563,7 +563,7 @@ Gesamt: 4 Min
 
 ### Steckdosenleisten
 
-- [EHMANN - Steckdosenleiste 12-fach](https://www.amazon.de/dp/B000WL7LV8)
+- [EHMANN - Steckdosenleiste 12-fach](https://www.amazon.de/dp/B000WL7LV8) - [Affiliate-Link](https://amzn.to/3nLvY8k)
   - [Referenzdatenblatt](https://www.ehmann-gmbh.de/wp-content/uploads/2017/01/0200x00122301_0200x00122303_0200x00122305-datenblatt.pdf)
     - `Art-Nr.: 0200x00122301 (1.5 m Zuleitung)`
     - `Art-Nr.: 0200x00122303 (3.0 m Zuleitung)`
@@ -571,7 +571,7 @@ Gesamt: 4 Min
 
 ### USC-C Hubs
 
-- [Dockteck](https://www.amazon.de/dp/B08SM393WB) - _5-in-1 Dock; USB-C → 3 USB3.0; 4K 60Hz HDMI, 100 Watt PD: MacBook Pro/Air M1/M2, iPad Pro, iPad Mini 6, Surface Pro_
+- [Dockteck](https://www.amazon.de/dp/B08SM393WB) - _5-in-1 Dock; USB-C → 3 USB3.0; 4K 60Hz HDMI, 100 Watt PD: MacBook Pro/Air M1/M2, iPad Pro, iPad Mini 6, Surface Pro_ - [Affiliate-Link](https://amzn.to/3M0Xpmz)
 
 ### Video (@alex)
 
@@ -589,7 +589,7 @@ Gesamt: 4 Min
 - [Thrunite - WOWTAC](https://thrunite.shop/WOWTAC.html)
 - [sofirn](https://www.sofirnlight.com/)
 - [Prometheus Lights](https://darksucks.com/) - Modell: _Beta Quick Release v2_
-- [Sofirn - LT1 Led Laterne](https://www.amazon.de/Sofirn-Wiederaufladbare-Ladefunktion-Powerbank-Funktion/dp/B09DJYQSP2)
+- [Sofirn - LT1 Led Laterne](https://www.amazon.de/Sofirn-Wiederaufladbare-Ladefunktion-Powerbank-Funktion/dp/B09DJYQSP2) - [Affiliate-Link](https://amzn.to/3HZTZ2f)
 
 ## Fitness & Gesundheit
 
@@ -693,7 +693,7 @@ Gesamt: 4 Min
 
 ### Halterung
 
-- [VICSEED Handyhalterung Auto](https://www.amazon.de/gp/product/B08LV3JS1B)
+- [VICSEED Handyhalterung Auto](https://www.amazon.de/gp/product/B08LV3JS1B) - [Affiliate-Link](https://amzn.to/3Mi7QDA)
 
 ### Hülle
 
@@ -704,7 +704,7 @@ Gesamt: 4 Min
 
 ### Schutzglas
 
-- [Spigen Glas.tR EZ Fit](https://www.amazon.de/gp/product/B0B244R4KB)
+- [Spigen Glas.tR EZ Fit](https://www.amazon.de/gp/product/B0B244R4KB) - [Affiliate-Link](https://amzn.to/3I6d8Qa)
 
 ## Software
 
@@ -874,13 +874,13 @@ Gesamt: 4 Min
 
 ### Anhänger
 
-- [Belkin AirTag Hülle mit Drahtseil](https://www.amazon.de/dp/B09LCJFLXM)
-- [Belkin AirTag Hülle mit Karabinerhaken](https://www.amazon.de/gp/product/B09RJYSCV8)
+- [Belkin AirTag Hülle mit Drahtseil](https://www.amazon.de/dp/B09LCJFLXM) - [Affiliate-Link](https://amzn.to/3Bm1L2O)
+- [Belkin AirTag Hülle mit Karabinerhaken](https://www.amazon.de/gp/product/B09RJYSCV8) - [Affiliate-Link](https://amzn.to/42vKfFd)
 
 ### Knopfzellen CR2032
 
-- [Panasonic CR2032 Lithium Knopfzelle](https://www.amazon.de/gp/product/B0735DV9DR)
-- [Duracell Specialty 2032](https://www.amazon.de/gp/product/B003UOYB8A)
+- [Panasonic CR2032 Lithium Knopfzelle](https://www.amazon.de/gp/product/B0735DV9DR) - [Affiliate-Link](https://amzn.to/42Ly6vs)
+- [Duracell Specialty 2032](https://www.amazon.de/gp/product/B003UOYB8A) - [Affiliate-Link](https://amzn.to/42N0oFL)
 
 ### Kurzbefehl | Shortcut
 
