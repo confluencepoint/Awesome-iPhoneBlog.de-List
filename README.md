@@ -701,6 +701,7 @@ Gesamt: 4 Min
 - [Apple - iPhone 14 Pro Max Clear Case mit MagSafe](https://www.apple.com/de/shop/product/MPU73ZM/A/iphone-14-pro-max-clear-case-mit-magsafe)
 - [Peak Design - Everyday Case for iPhone](https://www.peakdesign.com/products/everyday-case?variant=39821980237901)
 - [Nomad - Rugged Case](https://nomadgoods.com/products/rugged-case-ash-green-iphone-14-pro-max)
+- [RHOADA Transparent für iPhone 11 - MagSafe](https://amzn.to/3W2D98z)
 
 ### Schutzglas
 
