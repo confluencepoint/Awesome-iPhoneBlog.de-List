@@ -183,7 +183,7 @@ Die Linksammlung ist das _Gedächtnis_, die _Konserve_ der besten Tipps, Tricks,
 
 ### Airfryer | Heißluftfritteusen
 
-- [COSORI Heißluftfritteuse](https://www.amazon.de/dp/B07N8N6C85) [Affiliate-Link]([https://www.amazon.de/dp/B07N8N6C85](https://amzn.to/3Bgyk22))
+- [COSORI Heißluftfritteuse](https://www.amazon.de/dp/B07N8N6C85) - [Affiliate-Link](https://amzn.to/3Bgyk22)
 - [Ninja Heißluftfritteuse MAX [AF160EU]](https://www.amazon.de/dp/B0837H1TCV)
 - [Philips Airfryer XL HD9270/90](https://www.philips.de/c-p/HD9270_90/essential-airfryer-xl)
 
