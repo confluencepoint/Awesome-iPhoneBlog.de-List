@@ -640,10 +640,9 @@ Gesamt: 4 Min
 - [AEVOR](https://www.aevor.com/de/products/roll-pack-proof-black) - _Roll Pack - Proof Black_
 - [Bellroy](https://bellroy.com/) - Taschen, Geldbörsen, Handyhüllen
 - [Black Ember](https://blackember.com/)
-- [Boundary Supply](https://boundarysupply.eu/)
+- [Boundary Supply](https://boundarysupply.com)
 - [deuter](https://www.deuter.com/de-de/shop/rucksacke/p227013-lifestyle-rucksack-up-sydney) - _UP Sydney - Nachhaltiger Daypack & Stadtrucksack_
 - [EVERGOODS](https://evergoods.us/collections/packs/products/civic-travel-bag-35l) - _CIVIC Travel Bag 35 Liter_
-- [hardwrk](https://hardwrk.com/produkte/hardwrk-Backpack-Pro-fuer-MacBook) - _Backpack Pro für MacBook_
 - [MISSION WORKSHOP](https://missionworkshop.com/)
 - [onemate](https://onemate.de/products/discovery22-tagesrucksack) - _discovery Rucksack_
 - [Peak Design](https://www.peakdesign.com/)
